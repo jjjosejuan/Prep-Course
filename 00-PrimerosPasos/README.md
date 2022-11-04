@@ -1,3 +1,4 @@
+cd npm install
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
